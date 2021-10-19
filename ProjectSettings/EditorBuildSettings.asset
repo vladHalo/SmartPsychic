@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Smart psychic.unity
+    guid: 4517be1096e33834e84ee9e4ec6fa9d5
   m_configObjects: {}
